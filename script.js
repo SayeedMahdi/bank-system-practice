@@ -461,9 +461,7 @@ const logoutFunction = () => {
 // console.log();
 
 // //fake Account
-currentAccount = account1;
-updateUI(currentAccount);
-containerApp.style.opacity = 1000;
+
 
 // // date operations
 
